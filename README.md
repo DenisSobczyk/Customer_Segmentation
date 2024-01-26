@@ -1,1 +1,2 @@
 ## Project Description
+This project is based on the following Kaggle data set https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis and focuses on the customer segementation of a wine company. The overarching goal is to gain insights into customer traits and create clusters to initiate a more focused marketing campaign. Here, the K-Means algorihtm was utilized to eventually segement the customers into 5 clusters.
